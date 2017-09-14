@@ -22,3 +22,4 @@ function funkyFunction() {
 function theFunk(){
   return 'FUNKY!'
 }
+return funkyFunction
